@@ -1,2 +1,3 @@
 # eunjiha.github.io
-EUNJIHA github blog
+
+Theme: https://github.com/bencentra/centrarium/blob/master/README.md
